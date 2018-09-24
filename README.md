@@ -1,2 +1,2 @@
 # fastai
-fastai MOOC
+practicing with the fastai MOOC
